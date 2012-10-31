@@ -1,0 +1,11 @@
+498b662950674e4f641a9e47945f328d *DESCRIPTION
+5e2ba1b8e03c336ede28bad84e71e3cd *NAMESPACE
+ba866902101c5926fbf20b0997733225 *R/commcorrelogram.R
+cf76f048b89555a26635ae6fac5f78c6 *R/lagSelect.R
+3f83f502098f96ba861b225b0b8baa83 *R/modcommcorrelogram.R
+3e69af858196a529fe8009e7488816a5 *R/plotcommcorrelogram.R
+d12dbef4e759017e3b5bb64f07936b9d *man/CommunityCorrelogram-package.Rd
+ff4288fd6b6e807672856c73cac8461a *man/commcorrelogram-class.Rd
+a179429b3839b1a20fd909e3db56c0de *man/commcorrelogram.Rd
+d8760f6a99c6843fd83df593980a7564 *man/lagSelect.Rd
+3406f6bbf27c2160fc8945f450f4be8e *man/mod.commcorrelogram.Rd

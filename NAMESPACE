@@ -1,0 +1,5 @@
+exportMethods("mod","plot")
+exportClasses("commcorrelogram")
+export("commcorrelogram","lagSelect")
+import(vegan, methods)
+
